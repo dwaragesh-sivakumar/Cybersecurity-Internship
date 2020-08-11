@@ -1,0 +1,28 @@
+
+1. application - Identify the source statement
+
+	- Source statement ($_GET, $_POST, $_REQUEST)
+
+		a. Can be seen as functions (call functions everywhere)
+		
+		b. Method inside a class ($_GET parameters)
+
+	- Mode of View Control (Design)
+	
+	- Control is what the application does. Mode is the data.
+
+2. Given an application, can you identify how an input flows from a path?
+
+3. Sublime Text
+
+4. What is the difference between _GET and _POST?
+
+1. Use find to find a parameter (_GET, _POST, _REQUEST)
+
+2. Starting will tell you number of total files
+
+3. End tells you how many gets, posts, etc. you have in certain amount of files out of the total files (very low because up most 95% of it cannot be found)
+
+// look at applications that are given by Professor, find sinks and sources (_GET, _POST, _REQUEST) etc.
+// look at the Documentation of Smarty
+// look at how to install sublime text for free (requires license for some reason)
