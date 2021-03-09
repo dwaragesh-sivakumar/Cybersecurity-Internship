@@ -2,7 +2,7 @@
 
 - Under the supervision of Professor Venkat Venkatakrishnan and Professor Rigel Gjomemo, I had the opportunity to work with graduate students to research in electronic security and privacy.
 
-- The main goal of this intenrships was to identify specific vulnerabilities through PHP applications and prevent attackers from exploiting those vulnerabilties including the misuse of cross size scripting, breakthrough of firewalls, etc.
+- The main goal of this internship was to identify specific vulnerabilities through PHP applications and prevent attackers from exploiting those vulnerabilties including the misuse of cross size scripting, breakthrough of firewalls, etc.
 
 - Key Resources that were used over the course of this internship:
 
