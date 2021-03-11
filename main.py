@@ -2,7 +2,7 @@
 # The purpose of the program is:
 # 1. Ask for user input to get a path
 # 2. Take the path and use it to accumulate all TPL or all PHP files
-# 3. Go through all the conditions that are available to extract all the defined variables from TPL/PHp files
+# 3. Go through all the conditions that are available to extract all the defined variables from TPL/PHP files
 # 4. Output as a separate TXT file for each type of document
 
 import os
