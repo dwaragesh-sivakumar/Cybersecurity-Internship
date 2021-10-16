@@ -1,4 +1,4 @@
-# UIC CyberSecurity Internship
+# UIC Cybersecurity Internship
 
 - Under the supervision of Professor Venkat Venkatakrishnan and Professor Rigel Gjomemo, I had the opportunity to work with graduate students to research in electronic security and privacy.
 
